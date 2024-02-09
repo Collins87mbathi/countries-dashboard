@@ -2,6 +2,8 @@
 
 This project is a web application built with Next.js that displays information about countries using the REST Countries API. It features a responsive design with TailwindCSS, state management through Context API, and unit/integration testing using Jest and React Testing Library.
 
+![alt text](image.png)
+
 ## Running the Project Locally
 
 To run this project on your local machine, follow these steps:
@@ -16,7 +18,7 @@ npm (version 6 or later)
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Collins87mbathi/countries-dashboard.git
 cd countries-dasboard
 ```
 
